@@ -1,0 +1,17 @@
+*{
+    background-color: lightyellow;
+}
+
+.centered{
+    text-align: center;
+}
+
+.img{
+    width: 200px;
+    height: auto;
+}
+
+.mila{
+    width: 400px;
+    height: auto;
+}
