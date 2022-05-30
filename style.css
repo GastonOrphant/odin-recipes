@@ -1,9 +1,6 @@
-p{
-    max-width: 75ch;
-}
-
 *{
     background-color: lightyellow;
+    max-width: 75ch;
 }
 
 .centered{
